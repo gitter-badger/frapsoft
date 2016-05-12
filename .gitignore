@@ -1,0 +1,8 @@
+*.log
+*~
+.BridgeSort
+.DS_Store
+.idea/
+.sass-cache/
+.tmp/
+node_modules/
